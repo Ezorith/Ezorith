@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi, I'm Travis 👋
+**Cloud Support Engineer & IT Specialist** based in Auckland, NZ
+
+I bridge technical support, system administration, and cloud infrastructure with a focus on AWS and continuous automation.
+
+* ☁️ **Focus:** AWS Cloud Support (EC2, S3, IAM, VPC, CloudWatch) & IT Infrastructure
+* 🎓 **Background:** AWS re:Start | Unitec
+* 🛠️ **Learning:** Infrastructure as Code (Terraform) & Python automation
+* 🤝 **Beyond Code:** Community volunteer, hardware builder, and tech enthusiast
 
 <!--
 **Ezorith/Ezorith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
