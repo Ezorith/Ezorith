@@ -2,7 +2,7 @@
 
 AWS Cloud Support Specialist ☁️
 <br>
-Passionate about cloud architecture, troubleshooting, and bringing fun project ideas to life. Always building, tinkering, and exploring new tech.
+Passionate about cloud architecture, troubleshooting, and bringing fun project ideas to life.
 
 <!--
 **Ezorith/Ezorith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
